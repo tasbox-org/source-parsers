@@ -44,7 +44,7 @@
       <tab type="namespacelist" visible="yes" title="" intro=""/>
       <tab type="namespacemembers" visible="no" title="" intro=""/>
     </tab>
-    <tab type="user" url="https://github.com/TAServers/source-parsers" title="GitHub"/>
+    <tab type="user" url="https://github.com/tasbox-org/source-parsers" title="GitHub"/>
 
     <!-- Default tabs -->
     <tab type="topics" visible="no" title="" intro=""/>
